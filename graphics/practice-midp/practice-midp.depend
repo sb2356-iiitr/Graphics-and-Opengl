@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637755743 source:c:\users\soumy\documents\computer graphics lab\practice\practice-midp\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<conio.h>
+	<graphics.h>
+
