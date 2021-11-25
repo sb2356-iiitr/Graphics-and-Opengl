@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635442174 source:c:\users\soumy\documents\computer graphics lab\21-10\sutherland_hodgeman\2019ugcs028r.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633089134 source:c:\users\soumy\documents\computer graphics lab\1-10\shearing2d\shearing_2019ugcs028r.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+	<dos.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631120767 source:d:\projects\computer graphics lab\02_09\midpoint_circle\midpoint_2019ugcs028r.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<stdio.h>
+	<cmath>
+	<math.h>
+

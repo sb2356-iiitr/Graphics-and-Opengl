@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631133457 source:d:\projects\computer graphics lab\02_09\bresenham_circle\bre_circle_2019ugcs028r.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<stdio.h>
+	<cmath>
+	<math.h>
+
