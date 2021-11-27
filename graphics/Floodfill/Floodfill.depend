@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637941027 source:c:\users\soumy\documents\computer graphics lab\practice\floodfill\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+

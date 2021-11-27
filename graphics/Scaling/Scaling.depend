@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637948848 source:c:\users\soumy\documents\computer graphics lab\practice\scaling\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+	<cmath>
+

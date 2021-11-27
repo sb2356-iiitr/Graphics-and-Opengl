@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637987675 source:c:\users\soumy\documents\computer graphics lab\practice\cohen\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+

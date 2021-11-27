@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637958214 source:c:\users\soumy\documents\computer graphics lab\practice\rotation\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+	<cmath>
+
